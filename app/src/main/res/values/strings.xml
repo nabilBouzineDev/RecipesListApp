@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Recipes</string>
+
+    <string name="recipe_title_01">Easy Salmon Cakes</string>
+    <string name="recipe_description_01">These healthy salmon cakes are a delicious way to boost your intake of omega-3s. It is also a great way to use convenient canned (or leftover) salmon.</string>
+    <string name="recipe_duration_01">45 MIN</string>
+    <string name="recipe_kcal_01">47 KCAL</string>
+
+    <string name="recipe_title_02">Zucchini Frittata</string>
+    <string name="recipe_description_02">This vegetable-studded frittata recipe is one of the quickest meals you can make. Make it for breakfast, or serve for lunch or dinner with a tossed salad and a slice of olive oil-drizzled crusty baguette.</string>
+    <string name="recipe_duration_02">20 MIN</string>
+    <string name="recipe_kcal_02">229 KCAL</string>
+
+    <string name="recipe_title_03">Zucchini Noodles</string>
+    <string name="recipe_description_03">Cut some carbs and use spiralized zucchini in place of noodles in this zesty pesto pasta dish recipe. Top with Cajun-seasoned shrimp to complete this quick and easy dinner.</string>
+    <string name="recipe_duration_03">35 MIN</string>
+    <string name="recipe_kcal_03">446 KCAL</string>
+
+    <string name="recipe_title_04">Greek Chicken</string>
+    <string name="recipe_description_04">This Greek-inspired chicken and vegetable sheet-pan meal is bursting with flavor. The chicken is coated in a mayonnaise and bread crumb mixture, roasted alongside asparagus, cremini mushrooms and grape tomatoes and then served with a lemon-feta vinaigrette.</string>
+    <string name="recipe_duration_04">30 MIN</string>
+    <string name="recipe_kcal_04">306 KCAL</string>
+
+    <string name="recipe_title_05">Hummus Sandwich</string>
+    <string name="recipe_description_05">This mile-high vegetable and hummus sandwich makes the perfect heart-healthy vegetarian lunch to go. Mix it up with different flavors of hummus and different types of vegetables, depending on your mood.</string>
+    <string name="recipe_duration_05">10 MIN</string>
+    <string name="recipe_kcal_05">325 KCAL</string>
+
+    <string name="recipe_title_06">Egg Sweet Potato Toast</string>
+    <string name="recipe_description_06">Skip the gluten and get some vitamin C with this healthy sweet potato toast recipe. Topped with spinach, egg and a dash of hot sauce, it\'s a delicious alternative to eggs Benedict.</string>
+    <string name="recipe_duration_06">10 MIN</string>
+    <string name="recipe_kcal_06">124 KCAL</string>
+</resources>
