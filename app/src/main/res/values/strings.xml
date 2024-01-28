@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Recipes</string>
 
+    <string name="etc">…</string>
+
     <string name="recipe_title_01">Easy Salmon Cakes</string>
     <string name="recipe_description_01">These healthy salmon cakes are a delicious way to boost your intake of omega-3s. It is also a great way to use convenient canned (or leftover) salmon.</string>
     <string name="recipe_duration_01">45 MIN</string>
