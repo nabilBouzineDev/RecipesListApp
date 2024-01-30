@@ -54,5 +54,37 @@ val loadRecipes = listOf(
         R.string.recipe_description_06,
         R.string.recipe_duration_06,
         R.string.recipe_kcal_06
+    ),
+    Recipe(
+        R.string.recipe_title_07,
+        R.drawable.recipe_image_07,
+        R.string.recipe_description_07,
+        R.string.recipe_duration_07,
+        R.string.recipe_kcal_07
+    ),
+    Recipe(
+        R.string.recipe_title_08,
+        R.drawable.recipe_image_08,
+        R.string.recipe_description_08,
+        R.string.recipe_duration_08,
+        R.string.recipe_kcal_08
+    ),
+    Recipe(
+        R.string.recipe_title_09,
+        R.drawable.recipe_image_09,
+        R.string.recipe_description_09,
+        R.string.recipe_duration_09,
+        R.string.recipe_kcal_09
+    ),
+    Recipe(
+        R.string.recipe_title_10,
+        R.drawable.recipe_image_10,
+        R.string.recipe_description_10,
+        R.string.recipe_duration_10,
+        R.string.recipe_kcal_10
     )
+
+    /** I supposed to add 30 meals here.
+     * However, since I accomplish the required UI and logic, there's no need to add more...
+     */
 )

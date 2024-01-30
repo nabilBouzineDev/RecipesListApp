@@ -3,6 +3,8 @@
 
     <string name="etc">…</string>
 
+    <string name="recipe_app_name">30 Days Of Recipes</string>
+
     <string name="recipe_title_01">Easy Salmon Cakes</string>
     <string name="recipe_description_01">These healthy salmon cakes are a delicious way to boost your intake of omega-3s. It is also a great way to use convenient canned (or leftover) salmon.</string>
     <string name="recipe_duration_01">45 MIN</string>
@@ -32,4 +34,25 @@
     <string name="recipe_description_06">Skip the gluten and get some vitamin C with this healthy sweet potato toast recipe. Topped with spinach, egg and a dash of hot sauce, it\'s a delicious alternative to eggs Benedict.</string>
     <string name="recipe_duration_06">10 MIN</string>
     <string name="recipe_kcal_06">124 KCAL</string>
+
+    <string name="recipe_title_07">Green Smoothie</string>
+    <string name="recipe_description_07">The combination of kale and avocado makes this healthy smoothie recipe extra green. Chia seeds lend this creamy smoothie a heart-healthy punch of fiber and omega-3 fatty acids. Source: EatingWell Magazine, March 2019</string>
+    <string name="recipe_duration_07">5 MIN</string>
+    <string name="recipe_kcal_07">343 KCAL</string>
+
+    <string name="recipe_title_08">Avocado Salad</string>
+    <string name="recipe_description_08">Bursting with nutrient-rich produce, this California-inspired salad is a delicious and satisfying way to get your vitamins. We love the unique combination of blueberries, edamame, and goat cheese. Source: Diabetic Living Magazine, Summer 2020</string>
+    <string name="recipe_duration_08">20 MIN</string>
+    <string name="recipe_kcal_08">368 KCAL</string>
+
+    <string name="recipe_title_09">Mushroom Shawarma</string>
+    <string name="recipe_description_09">The bold spices and cooling and creamy tahini-yogurt sauce make these vegetarian pitas a home run for lunch or dinner. The meaty, umami-rich mushrooms do enough heavy lifting so that you don\'t miss the meat at all. Source: EatingWell.com, May 2020</string>
+    <string name="recipe_duration_09">15 MIN</string>
+    <string name="recipe_kcal_09">281 KCAL</string>
+
+    <string name="recipe_title_10">Roasted Eggplant Pasta</string>
+    <string name="recipe_description_10">This easy roasted eggplant pasta dish is dressed with eggplant, fresh cherry tomatoes and plenty of fresh herbs. Feta cheese adds a savory note while the balsamic dressing brightens the flavor. It\'s the perfect summer vegetarian dinner.</string>
+    <string name="recipe_duration_10">10 MIN</string>
+    <string name="recipe_kcal_10">507 KCAL</string>
+
 </resources>
