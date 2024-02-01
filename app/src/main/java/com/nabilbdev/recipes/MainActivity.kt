@@ -1,5 +1,3 @@
-@file:OptIn(ExperimentalMaterial3Api::class)
-
 package com.nabilbdev.recipes
 
 import android.os.Bundle
@@ -48,8 +46,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
-import com.nabilbdev.recipes.data.Recipe
-import com.nabilbdev.recipes.data.loadRecipes
+import com.nabilbdev.recipes.data.Datasource
+import com.nabilbdev.recipes.model.Recipe
 import com.nabilbdev.recipes.ui.theme.RecipesTheme
 import com.nabilbdev.recipes.ui.theme.calories_bg
 import com.nabilbdev.recipes.ui.theme.duration_bg
@@ -81,13 +79,14 @@ fun RecipesApp() {
         modifier = Modifier.padding(dimensionResource(id = R.dimen.padding_small))
     ) {
         LazyColumn(contentPadding = it) {
-            items(loadRecipes) { recipe ->
+            items(Datasource.loadRecipes) { recipe ->
                 RecipeCard(recipe = recipe)
             }
         }
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun RecipeTopAppBar(
     modifier: Modifier = Modifier
